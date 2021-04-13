@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1e6436c-7b53-46fb-9a42-0b4beb4ba26d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/MoreAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/TouAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/CardLayoutManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/CeshiView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/CymsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/LabelView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/LeadIngView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/MainBannerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/StreamLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/db/AppDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/db/HobbyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/db/HobbyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/HandFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/NewsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/VideoFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/FaBuModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/HardModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/MoreModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/NewTypeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/NewsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/UserLoginModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/api/LoginApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/FaBuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/FaSoResultEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/HardEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/LoginEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/MoreEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/NewsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/NewsTypeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/UserLoginEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/FaBuRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/HardRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/MoreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/NewsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/NewsTypeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/UserLoginRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/FaBuActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/HistoryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/InsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/MoreActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/ShoyeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/FaBuViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/HardViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/MoreViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/NewsTypeViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/NewsViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/UserLoginViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fa_bu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_ins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_more.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_shoye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_hand.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_news.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_video.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/listtou.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/mainbanner_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/popupwindos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/androidTest/java/com/example/common/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/example/common/encrypt/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/example/common/others/ObjUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/test/java/com/example/common/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/androidTest/java/com/example/core/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/example/core/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/example/core/IModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/example/core/view/BaseActicity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/example/core/view/BaseMVVMActicity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/com/example/core/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradles/Config.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradles/Version.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/androidTest/java/com/example/imgloader/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/java/com/example/imgloader/CImgLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/java/com/example/imgloader/CymImg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/java/com/example/imgloader/ImgManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/java/com/example/imgloader/ImgType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/java/com/example/imgloader/impl/GlideLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/java/com/example/imgloader/impl/PicassoLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgloader/src/test/java/com/example/imgloader/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/androidTest/java/com/example/log/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/CLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/CLogManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/CymLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/LogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/impl/ConsoleLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/impl/LogCatLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/example/log/impl/NetLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/test/java/com/example/log/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/androidTest/java/com/example/msgbus/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/main/java/com/example/msgbus/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/main/java/com/example/msgbus/MsgObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/main/java/com/example/msgbus/MsgObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msgbus/src/test/java/com/example/msgbus/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/androidTest/java/com/example/net/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/BaseRespEntify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/GsonUtlis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/NetTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/api/TokenApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/api/UserCenterApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/entity/TokenRespEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/retrofit/LiveDataCallAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/retrofit/LiveDataCallAdpaterFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/example/net/untils/ConstValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/test/java/com/example/net/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/androidTest/java/com/example/resource/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/artical_detail_icon_repost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/commentlist_icon_retweet_disable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_flush.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_fx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_herad.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_lj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_ljx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_mine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_plus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_shouye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_video.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_wjx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_wjxsc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_xx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ic_zan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/drawable/ridus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/main/res/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/src/test/java/com/example/resource/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/androidTest/java/com/example/store/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/StorageChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/StorageChainManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/callback/ResultCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/chain/DiskLRUCacheChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/chain/LRUCacheChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/chain/NetWorkCacheChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/untils/DiskLRUCacheUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/example/store/untils/LRUCacheUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/test/java/com/example/store/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/HobbEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/UserBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/login/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/login/LoginHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/login/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/other/MyObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/other/MyObserverable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/other/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/other/ObserverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/viewmodel/MyViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/java/com/example/day2six/viewmodel/ViewModelActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2six/app/src/main/res/layout/activity_view_model.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/androidTest/java/com/example/aidl2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/aidl/com/example/aidl2/IMyAidlInterface.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/aidl/com/example/aidl2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/java/com/example/aidl2/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/aidl2/src/test/java/com/example/aidl2/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/app/src/main/aidl/com/example/lianxilive/IMyAidlInterface.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/app/src/main/java/com/example/lianxilive/Main2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/app/src/main/java/com/example/lianxilive/Main3Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxilive/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0326/app/src/main/java/com/example/rikao0326/FoodApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0326/app/src/main/java/com/example/rikao0326/FoodEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0326/app/src/main/java/com/example/rikao0326/RecyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0326/app/src/main/res/layout/list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0329/app/src/main/java/com/example/rikao0329/FlyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/java/com/example/rikao0402/FoodApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/java/com/example/rikao0402/FoodEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/java/com/example/rikao0402/OneFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/java/com/example/rikao0402/RecylistAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/java/com/example/rikao0402/TwoFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/java/com/example/rikao0402/ViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/res/layout/fragment_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/res/layout/fragment_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/res/layout/list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0402/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0406/app/src/main/java/com/example/rikao0406/LoginFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0406/app/src/main/java/com/example/rikao0406/OneFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0406/app/src/main/java/com/example/rikao0406/ViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0406/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0406/app/src/main/res/layout/fragment_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0406/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0409/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rikao0409/app/src/main/res/xml/path.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/Service/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/WelcomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/adapter/LikelistAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/adapter/ListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/adapter/MainFragmentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/db/DataBaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/entity/FoodEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/fragment/FindFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/fragment/FoucsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/fragment/LikeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/fragment/MainFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/http/XiaApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/mvp/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/mvp/MyContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/mvp/MyPersenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/java/com/example/zhoukao0324/view/CymsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/activity_welcome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/fragment_find.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/fragment_foucs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/fragment_like.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/list2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0324/app/src/main/res/layout/popwindos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/WelActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/adapter/RecyleAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/adapter/WelFragAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/entity/FoodEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/fragment/Main2Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/fragment/MainFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/fragment/Photo1Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/fragment/Photo2Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/fragment/Photo3Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/fragment/Photo4Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/mvp/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/mvp/MyContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/mvp/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/java/com/example/zhoukao0331/service/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/drawable/achievement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/drawable/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/drawable/hello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/activity_wel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/fragment_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/fragment_photo1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/fragment_photo2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/fragment_photo3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/fragment_photo4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0331/app/src/main/res/layout/pop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/GWCActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/MoreActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/ShouCangActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/adapter/GwcAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/adapter/ListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/adapter/ShouCangAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/adapter/ViewPAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/db/GwcEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/db/ShouCangEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/entity/XiaEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/fragment/MainFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/fragment/MessageFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/fragment/MicroTaoFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/fragment/MyFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/fragment/ShopFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/http/XiaApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/mvp/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/mvp/MyContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/java/com/example/zhoukao0407/mvp/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/bulletscreen_icon_like.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/claw_navigationbar_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/claw_navigationbar_more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/discover_title_more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/gwcf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/drawable/icon_left_back_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/activity_gwc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/activity_more.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/activity_shou_cang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/fragment_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/fragment_micro_tao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/fragment_my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/fragment_shop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/gwclist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/popwindos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/layout/sclist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhoukao0407/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../monthSix/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../monthSix/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/java/com/example/monthsix/DataActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/java/com/example/monthsix/Main2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/java/com/example/monthsix/Main3Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/java/com/example/monthsix/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/java/com/example/monthsix/UserBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_main3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../monthSix/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rikao0322/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rikao0322/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rikao0323/app/src/main/java/com/example/rikao0323/Main2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rikao0323/app/src/main/java/com/example/rikao0323/Main2Activity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1808MVVM" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/FaBuActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-243" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/proguard-rules.pro">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/NewsFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="51" column="84" selection-start-line="51" selection-start-column="84" selection-end-line="51" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/VideoFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Interface" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/popupwindos.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/net/src/main/java/com/example/net/retrofit/LiveDataCallAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/MainActivity.java" />
+        <option value="$PROJECT_DIR$/net/src/main/java/com/example/net/GsonUtlis.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/MoreAdapter1.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_news.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/NewsModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/NewsViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/NewsRepository.java" />
+        <option value="$PROJECT_DIR$/net/src/main/java/com/example/net/entity/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/NewsEntity.java" />
+        <option value="$PROJECT_DIR$/common/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/common/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/MoreEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/MoreModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/MoreRepository.java" />
+        <option value="$PROJECT_DIR$/net/src/main/java/com/example/net/NetTools.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/MoreViewModel.java" />
+        <option value="$PROJECT_DIR$/net/src/main/java/com/example/net/BaseRespEntify.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/MoreAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list1.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_more.xml" />
+        <option value="$PROJECT_DIR$/resource/src/main/res/drawable/ic_wjxsc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/MoreActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/InsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/ShoyeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/HardModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/NewsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/App.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/HardModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/HardRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/HardViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/HardEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/FaBuEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/FaSoResultEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/FaBuModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/FaBuModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/FaBuRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/FaBuViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/TouAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/listtou.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_hand.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/CardLayoutManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/HandFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/api/LoginApi.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_fa_bu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/FaBuActivity.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="303" />
+    <option name="y" value="1" />
+    <option name="width" value="1624" />
+    <option name="height" value="1033" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1808MVVM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1808MVVM" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="a1808mvvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="a1808mvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="mvvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="a1808mvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="mvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1808MVVM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_24 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.a1808mvvm" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="F:/android/sdk/Android_SDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/libs" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.20177665" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\Android_Demo\1808MVVM\common\libs" />
+      <recent name="F:\java\Android_Demo\1808MVVM\common\src\main\java\com\example\common" />
+      <recent name="F:\java\Android_Demo\1808MVVM\app\src\main\res\values" />
+      <recent name="F:\java\Android_Demo\1808MVVM\app\src\main\java\com\example\a1808mvvm\mvvm\view" />
+      <recent name="F:\java\Android_Demo\1808MVVM\resource\src\main\res\drawable" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.imgloader" />
+      <recent name="com.example.log" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.a1808mvvm.mvvm.view" />
+      <recent name="com.example.a1808mvvm.mvvm.fragment" />
+      <recent name="com.example.store" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java\Android_Demo\1808MVVM\app\src\main\res\drawable" />
+      <recent name="F:\java\Android_Demo\1808MVVM\resource\src\main\res\values" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1e6436c-7b53-46fb-9a42-0b4beb4ba26d" name="Default Changelist" comment="" />
+      <created>1616743555080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616743555080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="303" y="1" width="1624" height="1033" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25575447" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32968238" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.33147943" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57063407" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.18464962" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5002862" side_tool="true" weight="0.24424973" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.4997138" weight="0.47608453" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" weight="0.32968238" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32968238" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3292839" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.25703326" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26629767" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32968238" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.32968238" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3242059" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="9" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/NewsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/MoreActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding>
+            <element signature="e#2821#2998#0" expanded="true" />
+            <element signature="e#2997#2998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/FaBuModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/repository/FaBuRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/MoreEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/NewsTypeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/UserLoginEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/NewsEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="12" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/LoginEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/FaSoResultEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_hand.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/TouAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="26" column="123" selection-start-line="26" selection-start-column="123" selection-end-line="26" selection-end-column="123" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/MoreAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/adapter/HomeViewPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_history.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ins.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/listtou.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_video.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_more.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/InsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/ShoyeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="7578" column="18" selection-start-line="7578" selection-start-column="18" selection-end-line="7578" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2295">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/cymviews/CardLayoutManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/NewsTypeViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/NewsViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/UserLoginViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/FaBuEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/src/main/java/com/example/net/BaseRespEntify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/HistoryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/MoreModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/HardViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/HardModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/HandFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/entity/HardEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#13618#13619#0" expanded="true" />
+            <element signature="e#13655#13656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/model/service/api/LoginApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/FaBuViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/viewmodel/MoreViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fa_bu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/NewsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="51" column="84" selection-start-line="51" selection-start-column="84" selection-end-line="51" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/fragment/VideoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/a1808mvvm/mvvm/view/FaBuActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
