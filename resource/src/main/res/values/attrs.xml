@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LeadIngView">
+
+        <attr name="LeadIng_SelectColor" format="color"/>
+        <attr name="LeadIng_UnSelectColor" format="color"/>
+        <attr name="LeadIng_Text" format="string"/>
+        <attr name="LeadIng_TextSize" format="dimension"/>
+        <attr name="LeadIng_TextColor" format="color"/>
+
+    </declare-styleable>
+
+</resources>

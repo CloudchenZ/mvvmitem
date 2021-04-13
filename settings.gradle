@@ -1,0 +1,2 @@
+include ':app', ':resource', ':common', ':core', ':net', ':log', ':imgloader', ':store', ':msgbus'
+rootProject.name='1808MVVM'

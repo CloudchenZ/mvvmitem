@@ -1,0 +1,56 @@
+apply plugin: 'com.android.library'
+def dep=rootProject.ext.dependencies;
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
+
+
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles 'consumer-rules.pro'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    dataBinding{
+        enabled = true
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+    api dep.gson
+    api dep.retrofit
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    def room_version = "2.2.6"
+    implementation "androidx.room:room-runtime:$room_version"
+    annotationProcessor "androidx.room:room-compiler:$room_version"
+    api dep.disklru
+    // optional - RxJava support for Room
+    implementation "androidx.room:room-rxjava2:$room_version"
+    api 'com.google.android.material:material:1.2.0'
+    // optional - Guava support for Room, including Optional and ListenableFuture
+    api "androidx.room:room-guava:$room_version"
+    api 'com.android.support:design:25.3.1'
+    // optional - Test helper
+    api 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.22'//万能适配器
+    api 'com.android.support:recyclerview-v7:29.0.0'//recyclerview
+    api 'com.github.bumptech.glide:glide:4.9.0'//glide依赖
+    api 'com.tencent.tbs.tbssdk:sdk:43939'
+    testImplementation "androidx.room:room-testing:$room_version"
+}
